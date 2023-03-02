@@ -1,3 +1,6 @@
+// allah ho akbar
+
+
 //create a canvas object fro HTML element
 var canvas = document.getElementById('canvas');
 //create a 2d drawing object
