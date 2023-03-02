@@ -1,4 +1,4 @@
-// allah ho akbar
+
 
 
 //create a canvas object fro HTML element
